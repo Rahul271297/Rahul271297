@@ -1,5 +1,5 @@
 
-<img align='right' src='Entry Pic.jpg' width='350", height = "200"'>
+<img align='right' src='rahul.jpg' width='350", height = "200"'>
 
 # Hi there👋 , I am Rahul
   
